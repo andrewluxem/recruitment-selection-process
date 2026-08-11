@@ -1,0 +1,23 @@
+{
+  "name": "recruitment-selection-process",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Designs a human-owned candidate selection process with job evidence and structured decision gates. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "recruitment-selection-process",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Designs a human-owned candidate selection process with job evidence and structured decision gates. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "candidate-selection",
+        "structured-hiring"
+      ]
+    }
+  ]
+}

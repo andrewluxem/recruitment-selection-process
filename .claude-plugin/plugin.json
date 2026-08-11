@@ -1,0 +1,17 @@
+{
+  "name": "recruitment-selection-process",
+  "version": "1.0.0",
+  "description": "Designs a human-owned candidate selection process with job evidence and structured decision gates. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/recruitment-selection-process",
+  "repository": "https://github.com/andrewluxem/recruitment-selection-process",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "candidate-selection",
+    "structured-hiring"
+  ]
+}
